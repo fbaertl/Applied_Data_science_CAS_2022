@@ -1,6 +1,8 @@
 @@ -1,2 +1,23 @@
-# cas_ads_2022
+# Applied_Data_science_CAS_2022
+
 This is my repository for my CAS course in applied data science 2022.
+
 # CAS Applied Data Science 2022
 This Repository contains all the course material for the CAS in Applied Data Science at the University of Bern in 2022/23.
 
